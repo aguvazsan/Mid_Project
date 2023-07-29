@@ -35,7 +35,7 @@ En primer lugar cargué la base de datos en MySQL esto me permitió a través de
 
 - El top 10 de las propiedades de mayor valor 
 
-![Texto](data_mid_bootcamp_project_regression\MYSQL_Reports\Top_10.png)
+![](data_mid_bootcamp_project_regression\MYSQL_Reports\Top_10.png)
 
 - El precio promedio de las propiedades
 
